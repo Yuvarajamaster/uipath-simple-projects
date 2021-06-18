@@ -1,2 +1,2 @@
 # uipath-simple-projects
-all the simple uipath projects
+basic uipath projects
